@@ -101,6 +101,10 @@ Admin
   GET /api/auth/users - Get all users (Admin only)
   POST /api/auth/update-user - Update user role & skills (Admin only)
 
+AI-agent Modules Arch
+---------------------------------------
+![App UI]((https://github.com/Sumnatkumar/full-stack-ai-agent/blob/main/merngenai.png)
+
 🔄 Ticket Processing Flow
 -----------------------------------------
 1.Ticket Creation
