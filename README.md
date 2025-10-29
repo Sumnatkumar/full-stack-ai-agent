@@ -167,15 +167,15 @@ Common Issues
 
 📚 Dependencies
 ------------------------------------------------------
-@inngest/agent-kit: ^0.7.3
-bcrypt: ^5.1.1
+@inngest/agent-kit: ^0.13.1
+bcrypt: ^6.0.0
 cors: ^2.8.5
-dotenv: ^16.5.0
+dotenv: ^17.2.3
 express: ^5.1.0
-inngest: ^3.35.0
+inngest: ^3.44.3
 jsonwebtoken: ^9.0.2
-mongoose: ^8.13.2
-nodemailer: ^6.10.1
+mongoose: ^8.19.2
+nodemailer: ^7.0.10
 
 🤝 Contributing
 -------------------------------------------------------
