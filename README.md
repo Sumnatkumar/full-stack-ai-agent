@@ -103,7 +103,7 @@ Admin
 
 AI-agent Modules Arch
 ---------------------------------------
-![App UI]((https://github.com/Sumnatkumar/full-stack-ai-agent/blob/main/merngenai.png)
+![App UI](https://github.com/Sumnatkumar/full-stack-ai-agent/blob/main/merngenai.png)
 
 🔄 Ticket Processing Flow
 -----------------------------------------
